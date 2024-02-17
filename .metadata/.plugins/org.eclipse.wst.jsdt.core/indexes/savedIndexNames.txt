@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\decuiapp\TestUI\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3226418441.index
+3063418314.index
+4130748800.index
+927680595.index
+4272338553.index
+4145666328.index
+1020646479.index

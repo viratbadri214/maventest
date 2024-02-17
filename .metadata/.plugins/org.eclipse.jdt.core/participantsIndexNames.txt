@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\decuiapp\TestUI\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1727331764.index
+\slokam\src\main\java
+C:\decuiapp\TestUI\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1193488538.index
+\slokam\src\main\java
